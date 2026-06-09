@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ghost-of-our-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ghost Of Our Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghost-of-our-love/) |
+| **Get License** | [Get License For Ghost Of Our Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghost-of-our-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when your eyes meet mine
+> A late-night whisper sending shivers down my spine
+> We’re shadows dancing in this faded light
+> I want to hold you till the morning takes the night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
