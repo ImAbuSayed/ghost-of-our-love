@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ghost-of-our-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Ghost Of Our Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghost-of-our-love/) |
+| **Get License** | [Secure Licensing Rights for Ghost Of Our Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghost-of-our-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bd264a3a80a3cfcbe61cb6fbb53157d7e00298c69ae80275f50e94d305c8317e` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
